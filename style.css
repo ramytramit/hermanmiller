@@ -1,0 +1,24 @@
+
+.ui.borderless.topmenu.menu{
+  font-weight: bold;
+  background-color: white;
+  box-shadow: none;
+  border:none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 18px;
+}
+
+.mainpage {
+  background: url("https://www.hermanmiller.com/content/dam/hmicom/page_assets/home/masthead/mh_home_eames_cats_cradle_20200210.jpg.rendition.2880.1233.jpg") no-repeat center;
+  background-size: cover;
+  height: 90%;
+  color:black;
+}
+
+.footer-background {
+  background-color: #EBEBEB;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  color: black;
+}
